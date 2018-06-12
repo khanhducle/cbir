@@ -1,0 +1,1 @@
+python search.py --dataset datasets/ukbench_sample/ --features-db output/features.hdf5 --bovw-db output/bovw.hdf5 --codebook output/vocab.cpickle --relevant datasets/ukbench_sample/relevant.json --idf output/idf.cpickle --query datasets/ukbench_sample/ukbench00264.jpg

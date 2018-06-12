@@ -1,0 +1,1 @@
+python evaluate_spatial_verify.py --dataset datasets/ukbench_sample/ --features-db output/features.hdf5 --bovw-db output/bovw.hdf5 --codebook output/vocab.cpickle --idf output/idf.cpickle --relevant datasets/ukbench_sample/relevant.json
